@@ -1,0 +1,17 @@
+{
+  "id": "9225910",
+  "company": "PRINTEC GROUP ROMANIA SRL",
+  "brand": "Printec",
+  "status": "activ",
+  "location": [
+    "București"
+  ],
+  "website": [
+    "https://www.printecgroup.com"
+  ],
+  "career": [
+    "https://apply.workable.com/printec/"
+  ],
+  "scraperFile": "https://github.com/amaliatanase/printec-python-scraper/actions/workflows/scrape.yml",
+  "ownJobUrlPrefix": "https://apply.workable.com/j/"
+}

@@ -1,0 +1,88 @@
+{
+  "validatedAt": "2026-11-06T10:09:28.361305+00:00",
+  "source": "ANAF",
+  "brand": "Printec",
+  "anaf": {
+    "cui": 9225910,
+    "name": "PRINTEC GROUP ROMANIA SRL",
+    "address": "MUNICIPIUL BUCUREŞTI, SECTOR 2, ŞOS. PIPERA, NR.43, CLADIREA B-FLOREASCA PARK, ET.3 SI PARTE",
+    "registrationNumber": "J1997001222401",
+    "phone": "744500436",
+    "fax": "",
+    "postalCode": "20308",
+    "caenCode": "6210",
+    "iban": "",
+    "registrationState": "TRANSFER(SOSIRE) din data 03.07.2017",
+    "registrationDate": "1997-03-06",
+    "fiscalAuthority": "Direcţia Generală a Finanţelor Publice Municipiul Bucureşti",
+    "ownershipForm": "PROPR.PRIVATA-CAPITAL PRIVAT STRAIN",
+    "organizationForm": "PERSOANA JURIDICA",
+    "legalForm": "SOCIETATE COMERCIALĂ CU RĂSPUNDERE LIMITATĂ",
+    "vatRegistered": true,
+    "vatPeriods": [
+      {
+        "start": "1997-03-06",
+        "end": null,
+        "yearStart": "",
+        "message": ""
+      }
+    ],
+    "cashBasisVat": false,
+    "cashBasisVatStart": null,
+    "cashBasisVatEnd": null,
+    "inactive": false,
+    "inactiveSince": null,
+    "reactivatedSince": null,
+    "splitVat": false,
+    "eFacturaRegistered": false,
+    "headquartersAddress": {
+      "street": "Şos. Pipera",
+      "number": "43",
+      "locality": "Sector 2 Mun. Bucureşti",
+      "county": "MUNICIPIUL BUCUREŞTI",
+      "country": "",
+      "postalCode": ""
+    },
+    "fiscalAddress": {
+      "street": "",
+      "number": "",
+      "locality": "",
+      "county": "",
+      "country": "",
+      "postalCode": ""
+    },
+    "administrators": [],
+    "authorizedCaenCodes": [],
+    "onrcStatus": 0,
+    "onrcStatusLabel": "Funcțiune"
+  },
+  "peviitor": {
+    "id": "9225910",
+    "company": "PRINTEC GROUP ROMANIA SRL",
+    "brand": "PRINTEC",
+    "status": "activ",
+    "location": [
+      "Bucureşti Sectorul 2"
+    ],
+    "lastScraped": "2026-08-02",
+    "scraperFile": "inviitor-ro-nodejs-scraper",
+    "address": [
+      "Bucureşti Sectorul 2, Bucureşti"
+    ],
+    "anafData": [
+      "{\"cif\":9225910,\"cui\":9225910,\"denumire\":\"PRINTEC GROUP ROMANIA SRL\",\"company\":\"PRINTEC GROUP ROMANIA SRL\",\"brand\":\"PRINTEC\",\"statusImpozit\":\"activ\",\"adresa\":\"Bucureşti Sectorul 2, Bucureşti\",\"localitate\":\"Bucureşti Sectorul 2\",\"website\":\"\"}"
+    ],
+    "existingJobsCount": [
+      0
+    ],
+    "_version_": 1872405505224212480,
+    "_root_": "9225910"
+  },
+  "summary": {
+    "company": "PRINTEC GROUP ROMANIA SRL",
+    "cif": "9225910",
+    "active": true,
+    "inactiveSince": null,
+    "address": "MUNICIPIUL BUCUREŞTI, SECTOR 2, ŞOS. PIPERA, NR.43, CLADIREA B-FLOREASCA PARK, ET.3 SI PARTE"
+  }
+}
